@@ -12,7 +12,7 @@ baner = """
           | $$                                            
           | $$                                            
           |__/                                            """;print(baner)
-banner = "\n\tTools Spam Sms dan Call\n\t1. Call\n\n\t2. Sms\n";print(banner)
+banner = "\n\tTools Spam Sms dan Call\n\t1. Call\n\t2. Sms\n";print(banner)
 try:
     pilih = input("\tpilih: ")
     no = input("exc: 898xxxxxxx\nMasukan nomor: ")
